@@ -10,5 +10,5 @@ Signatures for PE-bear:
 + [SIG.txt](SIG.txt)
 
 [![GitHub release](https://img.shields.io/github/release/hasherezade/pe-bear-releases.svg)](https://github.com/hasherezade/pe-bear-releases/releases) 
-[![Github All Releases](https://img.shields.io/github/downloads/hasherezade/pe-bear-releases/total.svg)](http://www.somsubhra.com/github-release-stats/?username=hasherezade&repository=pe-bear-releases) 
-[![Github Latest Release](https://img.shields.io/github/downloads/hasherezade/pe-bear-releases/latest/total.svg)](http://www.somsubhra.com/github-release-stats/?username=hasherezade&repository=pe-bear-releases) 
+[![Github All Releases](https://img.shields.io/github/downloads/hasherezade/pe-bear-releases/total.svg)](https://github.com/hasherezade/pe-bear-releases/releases) 
+[![Github Latest Release](https://img.shields.io/github/downloads/hasherezade/pe-bear-releases/latest/total.svg)](https://github.com/hasherezade/pe-bear-releases/releases) 
