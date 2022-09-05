@@ -7,7 +7,7 @@ PE-bear is a freeware reversing tool for PE files. Its objective is to deliver f
 <b>WARNING:</b> PE-bear is not open source - you will find here the builds only. Yet, the PE parser from PE-bear is open source and available here: [bearparser](https://github.com/hasherezade/bearparser)
 
 Signatures for PE-bear:
-+ [SIG.txt](SIG.txt) - *contains signatures from [PEid's UserDB](http://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml) - converted by a script provided by [crashish](http://crashish.blogspot.com/2013/09/peid-signature-conversion-for-pe-bear.html)*
++ [SIG.txt](SIG.txt) (updated: 22.01.2014) - *contains signatures from [PEid's UserDB](http://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml) - converted by a script provided by [crashish](http://crashish.blogspot.com/2013/09/peid-signature-conversion-for-pe-bear.html)*
 
 [![GitHub release](https://img.shields.io/github/release/hasherezade/pe-bear-releases.svg)](https://github.com/hasherezade/pe-bear-releases/releases) 
 [![Github All Releases](https://img.shields.io/github/downloads/hasherezade/pe-bear-releases/total.svg)](https://github.com/hasherezade/pe-bear-releases/releases) 
