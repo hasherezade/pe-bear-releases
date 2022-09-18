@@ -13,4 +13,8 @@ Signatures for PE-bear:
 
 ![](https://community.chocolatey.org/favicon.ico) Available also via [Chocolatey](https://community.chocolatey.org/packages/pebear)
 
-***!!! UPDATE !!!*** - since `18 September 2022` PE-bear is Open Source! Available here: https://github.com/hasherezade/pe-bear
+---
+
+***!!! UPDATE !!!*** - since `18 September 2022` PE-bear is Open Source!
+
+The code and new builds available here: https://github.com/hasherezade/pe-bear
